@@ -1,3 +1,4 @@
+```
 class Solution {
     func addDigits(num: Int) -> Int {
     	if num < 1 {
@@ -6,3 +7,4 @@ class Solution {
     	return (num - 1) % 9 + 1
     }
 }
+```
